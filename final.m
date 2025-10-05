@@ -1,4 +1,3 @@
-%% Group14; Adaptive Noise Cancellation
 mode = 1; % 1 = Full Suppression, 0 = Partial Suppression
 
 %% Load Data
